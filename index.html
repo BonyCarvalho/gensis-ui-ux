@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<title>DataTable</title>
+		<link rel="stylesheet" type="text/css" href="css/dataTables.bootstrap4.min.css">
+		<link rel="stylesheet" type="text/css" href="css/dataTables.jqueryui.min.css">
+		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"/>
+		<script type="text/javascript" src="js/jQuery-3.3.1.min.js"></script>
+		<script type="text/javascript" src="js/jquery.dataTables.min.js"></script>
+		<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="js/dataTables.colReorder.min.js"></script>
+		<script type="text/javascript" src="js/index.js"></script>
+	</head>
+	<body>
+		<table id="example" class="display" width="100%">
+			<tfoot>
+				<tr></tr>
+			</tfoot>
+		</table>
+		<input type="file" accept=".csv" onchange="checkfile(this);" id="inputFile" />
+		<div id="fileContents"></div>
+	</body>
+</html>
