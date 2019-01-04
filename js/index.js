@@ -1,5 +1,6 @@
 // check for csv files
 function checkfile(sender) {
+    // accept only csv files
     var validExts = new Array(".csv");
     var fileExt = sender.value;
     fileExt = fileExt.substring(fileExt.lastIndexOf('.'));
