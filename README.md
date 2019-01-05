@@ -1,4 +1,14 @@
-# gensis-ui-ux
+# Features
+
+* Sorting
+* Searching
+* Coloum re-ordering
+* Tooltip inedx
+* Pagination
+* Limit per page
+* CSV upload
+
+# Description
 
 * Choose a CSV file
 
@@ -11,15 +21,3 @@
 * ToolTip(Index of the Row)
 
 ![picture alt](https://github.com/BonyCarvalho/gensis-ui-ux/blob/46ea14e7aaf3b8966535109a6a4a5fb3af4f701c/images/Screen%20Shot%202019-01-05%20at%2010.25.18%20AM.png?raw=true "Total will be generated")
-
-
-
-# Features
-
-* Sorting
-* Searching
-* Coloum re-ordering
-* Tooltip inedx
-* Pagination
-* Limit per page
-* CSV upload
