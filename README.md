@@ -1,6 +1,6 @@
 # Demo
 
-[Click here ](https://bonycarvalho.github.io/gensis-ui-ux/index.html)
+Download this [sample CSV](https://bonycarvalho.github.io/gensis-ui-ux/C2ImportUsersSample.csv) (or any other CSV file) and [Click here ](https://bonycarvalho.github.io/gensis-ui-ux/index.html) to see the demo.
 
 # Features
 
